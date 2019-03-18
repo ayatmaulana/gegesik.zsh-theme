@@ -1,0 +1,1 @@
+# gegesik.zsh-theme
